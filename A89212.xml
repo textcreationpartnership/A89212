@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Modest account of the wicked life of that grand impostor Lodowick Muggleton wherein are related all the remarkable actions he did, and all the strange accidents that have befallen  him, ever since his first coming to London to this 25th of Jan. 1676 : also a particular of those reasons which first drew him to these damnable principles : with several pleasant stories concerning him, proving his commission to be but counterfeit, and himself a cheat, from divers expressions which have fallen from his own mouth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89212</idno>
+            <idno type="STC">Wing M2350</idno>
+            <idno type="STC">ESTC R42785</idno>
+            <idno type="EEBO-CITATION">38875752</idno>
+            <idno type="OCLC">ocm 38875752</idno>
+            <idno type="VID">152301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2292:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Modest account of the wicked life of that grand impostor Lodowick Muggleton wherein are related all the remarkable actions he did, and all the strange accidents that have befallen  him, ever since his first coming to London to this 25th of Jan. 1676 : also a particular of those reasons which first drew him to these damnable principles : with several pleasant stories concerning him, proving his commission to be but counterfeit, and himself a cheat, from divers expressions which have fallen from his own mouth.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Bookseller's advertisement.</note>
+                  <note>"Licensed according to Order. Quarto, containing six pages, printed at London for B.H. in 1676."</note>
+                  <note>Imperfect: stained and cropped, with loss of text.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Muggleton, Lodowick, 1609-1698.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Booksellers and bookselling --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:152301:1"/>
+            <head>A modeſt Account of the wicked Life of that Grand Impoſtor, <hi>Lodowick Muggleton:</hi> Wherein are related all the remarkable Actions he did, and all the ſtrange Accidents that have be<g ref="char:EOLhyphen"/>fallen him, ever ſince his firſt Coming to <hi>London,</hi> to this Twenty-fifth of <hi>January,</hi> 1676. Alſo a Particular of thoſe Reaſons, which firſt drew him to theſe damnable Principles: With ſeveral pleaſant Stories concerning him, proving his Commiſſion to be but counterfeit, and himſelf a Cheat, from divers Expreſſions which have fallen from his own Mouth. Licenſed according to Order. <hi>Quarto,</hi> containing ſix Pages, printed at <hi>London</hi> for <hi>B. H.</hi> in 1676.</head>
+            <p>
+               <hi>LOdowick Muggleton</hi> was born of poor, though honeſt Parents, living at <hi>Chippenham,</hi> within fifteen Miles of <hi>Briſtol:</hi> His Relations having but little Means, and a great Charge of Children to maintain, they were forced to ſend their Daughters to wait on their neighbouring Gentry, and to place their Sons to ſuch Trades as coſt little Binding them Apprentices; but, amongſt all the reſt of thoſe of this worſhipful Brood, they were bleſſed withal, they might have obſerved, even in his cunicular Days, in this <hi>Lodowick Muggleton,</hi> an obſtinate, diſſen<g ref="char:EOLhyphen"/>tious, and oppoſive Spirit; which made them deſirous to ſettle him at ſome Diſtance from them, and alſo to bind him to ſuch a Trade, and Maſter, as might curb him from that Free<g ref="char:EOLhyphen"/>dom, which the Moroſeneſs of his coarſe Na<g ref="char:EOLhyphen"/>ture extorted from his too indulgent Parents: By which Means, as ſoon as he had made ſome ſmall Inſpection into his Accidence, without any other Accompliſhment, beſides a little Writing and Caſting of Accompts, he was hur<g ref="char:EOLhyphen"/>ried up to <hi>London,</hi> and there bound Apprentice to one of the croſs-legged Order, but of an indifferent Reputation in the Place where he lived, though by Trade a Taylor. We will paſs over the Parentheſis of his Youth in Si<g ref="char:EOLhyphen"/>lence, therein being nothing but uſual Wag<g ref="char:EOLhyphen"/>geries, which generally recommend to our Ex<g ref="char:EOLhyphen"/>pectation ſomething remarkable, when the uſe<g ref="char:EOLhyphen"/>ful Extravagancies ſhall be ſeaſoned with Age.</p>
+            <p>When the Time of his Apprenticeſhip grew near its Expiration, ſo that he was admitted more Liberty, than formerly was granted him, he was obſerved to be a great Haunter of Con<g ref="char:EOLhyphen"/>venticles; inſomuch that there could not a diſſenting Nonconformiſt diffuſe his Sedition in any obſcure Corner of the City, but this <hi>Lodowick Muggleton</hi> would have a Part of it; by which Means, continuing in the ſame idle Curioſity, and taking great Obſervation on that unknown Gain, many of that canting Tribe got by their deluded Auditors, he pro<g ref="char:EOLhyphen"/>poſed to himſelf a certain and conſiderable In<g ref="char:EOLhyphen"/>come to be got by the ſame Means, by which he had obſerved many of thoſe great Pretenders gull both himſelf and others: For a rooked Conventicler, like a bankrupt Gameſter, having, for ſome Time, been cullied out of his Money, learns the Trick, ſets up Hector, and trades for himſelf.</p>
+            <p>Thus did <hi>Lodowick Muggleton,</hi> by ſliding out of one Religion into another, ſo diſſatisfy his Judgment, and run himſelf from the ſolid Baſis of his firſt Principles; firſt degenerating, from the orthodox Tenets of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to <hi>Presbytery;</hi> from thence to <hi>Indepen<g ref="char:EOLhyphen"/>dency;</hi> thence to <hi>Anabaptiſm;</hi> thence to <hi>Qua<g ref="char:EOLhyphen"/>keriſm;</hi> and, laſtly, to no Religion at all.</p>
+            <pb facs="tcp:152301:2"/>
+            <p>When Men have, thus, once fooled them<g ref="char:EOLhyphen"/>ſelves out of Religion and a good Conſcience, it is no Wonder, that their ſecular Intereſts draw them into all Sorts of Impiety and Pro<g ref="char:EOLhyphen"/>faneneſs, as it has done this <hi>Lodowick Muggle<g ref="char:EOLhyphen"/>ton;</hi> who, though, in himſelf, a poor, ſilly, deſpicable Creature, yet had the Confidence to think he had Parts enough to wheedle a Com<g ref="char:EOLhyphen"/>pany of ſilly, credulous Proſelytes out of their Souls and Eſtates: And, indeed, he has had ſuch admirable Succeſs in that wicked Enter<g ref="char:EOLhyphen"/>priſe, that, tho' we cannot abſolutely conclude, that he has cheated them of the firſt; yet we can prove, if Occaſion were, that he has de<g ref="char:EOLhyphen"/>frauded them of the latter; as has been often told him, ſince the firſt Day of his Standing in the Pillory.</p>
+            <p>It has been told already, how this impious Impoſtor lays Claim to a counterfeit Commiſ<g ref="char:EOLhyphen"/>ſion, whereby he has infected the Truths of many honeſt, ignorant People, with an extra<g ref="char:EOLhyphen"/>ordinary Power, that was delivered to him by as infamous a Blaſphemer as himſelf, <hi>John Reeve;</hi> who, as he formerly rivalled <hi>Muggle<g ref="char:EOLhyphen"/>ton</hi> in Impiety, had he been yet living, ſhould certainly have clubbed with him in his deſerved Puniſhment.</p>
+            <p>It is about twenty-one Years, ſince this im<g ref="char:EOLhyphen"/>pudent Creature began his Impoſtures; who, knowing himſelf as defective of Reaſon, as of Religion, made it one of the grand Maxims of his Policy, That his Proſelytes ſhould be fully perſuaded, contrary to all Senſe, or Probability. Reaſon was that great Beaſt, ſpoken of in the <hi>Revelation,</hi> and, conſequently, not to be con<g ref="char:EOLhyphen"/>ſulted withal, as to the Examining of any fun<g ref="char:EOLhyphen"/>damental Point in Religion; whereby he ſe<g ref="char:EOLhyphen"/>cured both himſelf, and his ſhallow Diſciples, from all thoſe frequent Diſputations and Argu<g ref="char:EOLhyphen"/>ings, which, otherwiſe, muſt neceſſarily have diverted them from adhering to his damnable, impious, and irrational Tenets; which I pur<g ref="char:EOLhyphen"/>poſely omit, as being too unſufferably profane for the modeſt Ear of any ſober, well-meaning <hi>Chriſtian.</hi>
+            </p>
+            <p>But we may judge a little of the Theorick by the Practick, I mean, of his Principles by his Practices, and of the Soundneſs of his Doctrine by thoſe Duties he held himſelf, and his Fol<g ref="char:EOLhyphen"/>lowers, obliged to, in the Performance of it; which, indeed, were none at all; it being his uſual Cuſtom, when they met on the Sabbath-day, to entertain them with a Pig of their own Sow; I mean, with Wine, ſtrong Drink, or Victuals; which either they ſent in before-hand, or brought along with them; allowing them to be as licentious, as they pleaſed, in all Things that might gratify, or indulge their Senſes.</p>
+            <p>A Friend of mine was, one <hi>Sunday,</hi> walking in the Fields; and, meeting there an old Ac<g ref="char:EOLhyphen"/>quaintance of his, who was lately turned <hi>Mug<g ref="char:EOLhyphen"/>gletonian,</hi> with a young Baggage in his Hand, which, he did more than ſuſpect, was light, he could not forbear Expreſſing his Admiration, to this <hi>Muggletonian</hi> himſelf, in theſe, or ſuch-like Terms: <q>I cannot but wonder to ſee you, my old Neighbour, who have, for theſe many Years, buſied yourſelf in the Study of Reli<g ref="char:EOLhyphen"/>gion, and was, not long ſince, like to have gone mad, becauſe you knew not which Opi<g ref="char:EOLhyphen"/>nion to ſtick to. I ſay, I cannot but won<g ref="char:EOLhyphen"/>der to ſee you Abroad, on the Sabbath-day, in this briſk Poſture; you are altered both in Countenance, Apparel, and Manners, ſo that I almoſt doubt, whom I ſpeak to. Ah, an<g ref="char:EOLhyphen"/>ſwered the <hi>Muggletonian,</hi> you know, Friend, how I have heretofore troubled myſelf about Religion indeed; inſomuch that it had al<g ref="char:EOLhyphen"/>moſt coſt me my Life, but all in vain, till about ſix Weeks ſince; at which Time I met with <hi>Lodowick Muggleton,</hi> who has put me into the eaſieſt Way to Heaven, that ever was invented; for he gives us Liberty, pro<g ref="char:EOLhyphen"/>vided we do but believe in his Commiſſion, freely to launch into all thoſe Pleaſures, which others, leſs knowing, call Vices; and, after all, will aſſure us of eternal Salvation.</q> Behold, Reader, what a ſweet Religion here is like to be.</p>
+            <p>But, as <hi>Muggleton</hi> was liberal in the Free<g ref="char:EOLhyphen"/>dom he gave his Adherents, ſo he was always careful to avoid the Prohibitions of the Law; he generally appointed his Bubbles to meet in the Fields, where he alſo permitted them to hu<g ref="char:EOLhyphen"/>mour their Senſualities with any Recreation, not excepting Uncleanneſs itſelf; for which Profaning the Sabbath he was, in <hi>Oliver Crom<g ref="char:EOLhyphen"/>well</hi>'s Time, committed to <hi>Newgate,</hi> where he had like to have been ſo dealt withal then, that <hi>Tyburn</hi> had ſaved the Pillory this Trouble now: But that perfidious Uſurper <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſcious to him<g ref="char:EOLhyphen"/>ſelf, that <hi>Muggleton</hi> could not be a greater Im<g ref="char:EOLhyphen"/>poſtor in the Church, than he was in the State, upon the Conſideration of <hi>Fratres in malis,</hi> reſtored him to his Liberty.</p>
+            <p>Howbeit, a little before <hi>Oliver</hi>'s Death, <hi>Muggleton,</hi> by continual Flatteries, had got into his Books, and, amongſt other Prophecies con<g ref="char:EOLhyphen"/>cerning
+<pb facs="tcp:152301:2"/>him, had declared, that <hi>Oliver</hi> ſhould perform more wonderful Actions, than any he had yet atchieved, before he died. But, he happening to depart this Life, before he had done any Thing elſe that was remarkable, <hi>Muggle<g ref="char:EOLhyphen"/>ton</hi> was demanded, Why his Prophecy proved not true? He anſwered very wiſely, and like himſelf, <hi>viz. That he was ſure</hi> Oliver <hi>would have performed them, had he lived long enough.</hi>
+            </p>
+            <p>But, ſince his Gracious Majeſty's Return, he has driven on a much more profitable theolo<g ref="char:EOLhyphen"/>gical Cheat, having aſſumed the Liberty not only of infuſing what Doctrine he pleaſed into the Minds of his ignorant deluded Followers, but writ ſeveral profane Books, which, to his great Advantage, he diſperſed among them; poiſoning their Minds thereby with a Hodge-podge of rotten Tenets, whereby they are be<g ref="char:EOLhyphen"/>come uncapable of reliſhing the more ſound, wholeſome, and undoubted Principles of the Church of <hi>England.</hi>
+            </p>
+            <p>I ſhall conclude with one Story more con<g ref="char:EOLhyphen"/>cerning <hi>Muggleton,</hi> and ſo leave him to the Cenſure of the ingenuous Reader. A timiſh Gentleman, accoutered with Sword and Peruke, hearing the Noiſe this Man cauſe in the Town, had a great Deſire to diſcourſe with him, whom he found alone in his Study; and, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Advantage of that Occaſion, he urged <hi>Muggle<g ref="char:EOLhyphen"/>ton</hi> ſo far, that, knowing not what to ſay, h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> falls to a ſolemn Curſing of the Gentleman who was ſo inraged thereat, that he drew hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sword, and ſwore he would run him through immediately, unleſs he recanted the Sentence o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Damnation, which he had preſumptuouſly caſt upon him. <hi>Muggleton,</hi> perceiving, by the Gentleman's Looks, that he really intended what he threatened, did not only recant his Curſe, but pitifully intreated him whom he had curſed before; by which we may underſtand the Invalidity both of him, and his Commiſſion.</p>
+            <p>Thus, whoever conſiders the Contents of <hi>Muggleton</hi>'s whole Life, will find it, <hi>in toto,</hi> nothing but a continued Cheat of above twen<g ref="char:EOLhyphen"/>ty-one Years long; which, in the Cataſtrophe, he may behold worthily rewarded with the mo<g ref="char:EOLhyphen"/>deſt Puniſhment of a wooden Ruff, or Pillory; his grey Hairs gilded with Dirt and rotten Eggs; and, in fine, himſelf brought, by Reaſon of his own horrid and irreligious Actions, into the greateſt Scorn and Contempt imaginable, by all the Lovers of Piety, Diſcretion, or good Man<g ref="char:EOLhyphen"/>ners.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:152301:3"/>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>vp your Harts, rejoyce in him,</l>
+               <l>For Work of his owne Hand;</l>
+               <l>For I of happy Tidings mean,</l>
+               <l>To let you vnderſtand.</l>
+            </lg>
+            <lg>
+               <l>Whiche cheerful wil be ſure to all,</l>
+               <l>Of faithful <hi>Engliſhe</hi> Blood;</l>
+               <l>Whoſe Harts did neuer hate the Truthe,</l>
+               <l>Nor Goſpel yet withſtood.</l>
+            </lg>
+            <lg>
+               <l>A Man there was, a <hi>quondam</hi> great</l>
+               <l>Of Might, of Pomp, and Praiſe;</l>
+               <l>Of <hi>Engliſhe</hi> Blood, though <hi>Engliſhe</hi> Loue</l>
+               <l>Were ſmall in all his Wayes.</l>
+            </lg>
+            <lg>
+               <l>As did appeer by <hi>Roomiſhe</hi> Acts,</l>
+               <l>Proceeding from his Hight;</l>
+               <l>Whiche prooude him not an <hi>Engliſhe</hi> Man,</l>
+               <l>But ſure a <hi>Romain</hi> right.</l>
+            </lg>
+            <lg>
+               <l>For neuer faithful <hi>Engliſhe</hi> Hart</l>
+               <l>Was Foe to natiue Soil;</l>
+               <l>Yet hee in natiue Land did ſeek,</l>
+               <l>Chriſt's faithful Flock to ſpoil.</l>
+            </lg>
+            <lg>
+               <l>An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alſo then he wrought much Wo,</l>
+               <l>To <hi>England</hi>'s chiefeſt Stayes;</l>
+            </lg>
+            <gap reason="illegible" resp="#UOM" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <lg>
+               <l>By ſeeking of their Death and Loſſe,</l>
+               <l>Which lov'd Chriſtes Teſtament.</l>
+            </lg>
+            <lg>
+               <l>And more then ſo, of woorthy Wights,</l>
+               <l>Of whom bereft are wee;</l>
+               <l>Whiche left their Welth, their Eaſe, and Life,</l>
+               <l>That Chriſte might gayned bee.</l>
+            </lg>
+            <lg>
+               <l>And yet not ſo, this * <hi>Cyrus</hi> left</l>
+               <l>Muche humain Blood to ſpil;</l>
+               <l>And ſo ceace his devouring Rage,</l>
+               <l>And moſte blaſphemous Wil.</l>
+            </lg>
+            <lg>
+               <l>But more and more he ſought Outrage,</l>
+               <l>(As all his Mates were bent)</l>
+               <l>By Lies and Tales, and Popiſh Toyes,</l>
+               <l>Gods Goſpel to preuent.</l>
+            </lg>
+            <lg>
+               <l>As one in Place by <hi>Sathan</hi> ſent,</l>
+               <l>Gods Inſtrument of Ire;</l>
+               <l>To daunt the Pride of <hi>England</hi> then,</l>
+               <l>(Which did it much require.)</l>
+            </lg>
+            <lg>
+               <l>And ſo no dout this † <hi>Bonner</hi> did,</l>
+               <l>He ſpared no Degree;</l>
+               <l>Ne Wiſe, ne Graue, ne Riche, ne Poor,</l>
+               <l>Be pitied no Man hee.</l>
+            </lg>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
